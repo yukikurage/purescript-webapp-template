@@ -66,3 +66,9 @@ settings.json に設定を追加します。
   "editor.formatOnSave": true,
 },
 ```
+
+### Live Sever 拡張機能を入れる
+
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+これを導入したら、`npm run watch` をしてエディタ右下の Live Server ボタンを押すと、ホットリロードされる開発環境が得られます。
